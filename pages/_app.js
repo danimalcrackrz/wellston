@@ -3,6 +3,7 @@ import Layout from "../components/Layout"
 import "../styles/globals.css"
 import "../styles/Header.scss"
 import "../styles/Navbar.scss"
+import "../styles/Main.scss"
 
 function MyApp({ Component, pageProps }) {
   return (

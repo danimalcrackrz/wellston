@@ -1,11 +1,16 @@
 .navbar {
+  position: absolute;
+  margin-top: 75px;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: calc(100vh - 75px);
   width: 275px;
   background: var(--bg-color);
   color: var(--text-color);
-  transition: 400ms;
+  transition: 600ms;
+  border-right: 3px solid var(--highlight-color);
+  opacity: 0.93;
+  z-index: 1;
   .navbar-links {
     display: flex;
     flex-direction: column;
@@ -15,11 +20,11 @@
     list-style: none;
     & li {
       padding: 1rem;
+      border-radius: 0.5rem;
     }
     & li:hover {
       background: var(--highlight-color);
       color: black;
-      border-radius: 0.5rem;
       cursor: pointer;
     }
   }
