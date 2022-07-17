@@ -3,18 +3,18 @@
   place-items: center;
   height: 100vh;
   padding: 1rem;
-  background: gray;
+  background: linear-gradient(to top right, #808080, #000000);
   .company-about {
     padding: 1rem;
-    height: 70%;
     width: 50%;
     .company-about-title {
       display: inline-block;
       margin-bottom: 1rem;
-      font-size: 3rem;
+      font-size: 4rem;
       border-bottom: 3px solid var(--highlight-color);
     }
     .company-about-content {
+      color: var(--text-color);
       font-size: 1rem;
       .company-about-content-link {
         color: var(--highlight-color);

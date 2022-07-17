@@ -25,6 +25,8 @@ const Company = () => {
           <a
             href='https://law.justia.com/codes/georgia/2010/title-15/chapter-6/article-2/15-6-67'
             className='company-about-content-link'
+            target='_blank'
+            rel='noreferrer'
           >
             {" "}
             O.C.G.A. 15-6-67{" "}
