@@ -1,6 +1,6 @@
 import React from "react"
 import Image from "next/image"
-import mainImg from "../public/scott-blake-fence.jpg"
+import mainImg from "../public/scott-blake-railroad.jpg"
 import logo from "../public/logoAsset 4.png"
 
 const Main = () => {
