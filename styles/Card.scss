@@ -1,0 +1,13 @@
+.card {
+  height: 325px;
+  width: 275px;
+  background: var(--gradient-card);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  .card-title {
+    display: inline-block;
+  }
+  .card-content {
+    font-size: 0.75rem;
+  }
+}

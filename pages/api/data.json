@@ -1,0 +1,24 @@
+{
+  "types": [
+    {
+      "title": "Boundary Survey",
+      "content": "Boundary Surveys recover or reestablish a propertys corners, thereby defining the limits of the property. Using a system called “metes and bounds,” we identify property lines on a final survey drawing. For all boundary surveys, our bearings are accurate within once second of arc and within one hundreth of a foot for distances."
+    },
+    {
+      "title": "Topographic Surveys",
+      "content": "When civil engineers are considering improvements for a given site, surveys showing the contours of the land are critical. We provide topographic surveys that accurately reflect a site’s contours. Using a Topcon digital level, we create the data used to make a topographic map. Our map will also include additional site information, such as parking areas, buildings, and drives. Topographic surveys can show greater detail if requested, including the location of utilities, trees, etc."
+    },
+    {
+      "title": "As-Built Surveys",
+      "content": "A survey of an existing establishment is called an “as-built” survey. This type of survey is often requested for schools, shopping centers, and factory locations. As-built surveys usually include utilities, sewerage disposal systems, parking lots, storm drainage systems and buildings, as well as any other structure or improvement on the site. Our as-built survey will establish the boundaries of a site, and will include a title inspection report. Any exceptions to the title report will also be highlighted and shown on the final survey."
+    },
+    {
+      "title": "GPS Surveys",
+      "content": "Utilizing precision Leica recievers, satellite signals are used to gain the specific position of points on a property. Once the resulting data is loaded into our computer, which processes the information and provides the exact position of the points within a few millimeters. GPS surveys are also helpful in determining lattitude and longitude for cellular tower surveys."
+    },
+    {
+      "title": "Construction Layout Surveys",
+      "content": "Wellston & Associates can provide multiple construction layout services, such as the layout of storm and sewer drainage systems, buildings, curbs, and other features of a site. From new site construction and major building expansions, to road layout, we have the knowledge and experience to help your project run smoothly."
+    }
+  ]
+}

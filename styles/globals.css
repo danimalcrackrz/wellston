@@ -21,4 +21,9 @@ a {
   --text-color: #fff;
   --highlight-color: #fcb034;
   --gradient: linear-gradient(to top right, #808080, #000000);
+  --gradient-card: radial-gradient(
+    circle 957px at 8.7% 50.5%,
+    rgba(246, 191, 13, 1) 0%,
+    rgba(249, 47, 47, 1) 90%
+  );
 }

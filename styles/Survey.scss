@@ -1,4 +1,16 @@
 .survey {
+  display: grid;
+  place-items: center;
   height: 100vh;
   background: linear-gradient(to top right, #808080, #000000);
+  .survey-title {
+    font-size: 4rem;
+    margin-top: 5rem;
+    margin-bottom: 0;
+    border-bottom: 3px solid var(--highlight-color);
+  }
+  .survey-content {
+    display: flex;
+    gap: 0.5rem;
+  }
 }

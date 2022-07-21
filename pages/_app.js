@@ -8,6 +8,7 @@ import "../styles/Company.scss"
 import "../styles/Request.scss"
 import "../styles/Survey.scss"
 import "../styles/Form.scss"
+import "../styles/Card.scss"
 
 function MyApp({ Component, pageProps }) {
   return (
