@@ -20,4 +20,5 @@ a {
   --bg-color: #181818;
   --text-color: #fff;
   --highlight-color: #fcb034;
+  --gradient: linear-gradient(to top right, #808080, #000000);
 }

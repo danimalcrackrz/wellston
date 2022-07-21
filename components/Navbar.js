@@ -22,8 +22,8 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link href='Boundary'>
-              <a>Boundary Surveys</a>
+            <Link href='Survey'>
+              <a>Survey Types</a>
             </Link>
           </li>
           <li>

@@ -1,0 +1,41 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  gap: 1rem;
+  width: 500px;
+  height: 500px;
+  background: var(--bg-color);
+  border-radius: 1rem;
+
+  input {
+    display: block;
+    width: 90%;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 3px solid var(--highlight-color);
+    color: white;
+    background: var(--bg-color);
+  }
+  .form-message {
+    line-height: 100px;
+  }
+  .form-submit {
+    font-size: 1.25rem;
+    color: black;
+    background: var(--highlight-color);
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
+
+.form-title {
+  display: inline-block;
+  font-size: 2rem;
+  color: black;
+  margin-bottom: 1rem;
+  border-bottom: 3px solid var(--highlight-color);
+}

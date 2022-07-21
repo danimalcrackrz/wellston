@@ -3,7 +3,7 @@
   place-items: center;
   height: 100vh;
   padding: 1rem;
-  background: linear-gradient(to top right, #808080, #000000);
+  background: var(--gradient);
   .company-about {
     padding: 1rem;
     width: 50%;

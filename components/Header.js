@@ -1,4 +1,5 @@
 import React from "react"
+import Link from "next/link"
 import Image from "next/image"
 import { useRecoilState } from "recoil"
 import { navbarState } from "../atoms"
@@ -9,9 +10,11 @@ const Header = () => {
   const [navbarStateValue, setNavbarState] = useRecoilState(navbarState)
   return (
     <div className='header'>
-      <span className='header-logo'>
-        <Image src={logo} alt='logo' width={300} height={50} />
-      </span>
+      <Link href='/'>
+        <span className='header-logo'>
+          <Image src={logo} alt='logo' width={300} height={50} />
+        </span>
+      </Link>
       <Hamburger
         size={35}
         direction='left'
